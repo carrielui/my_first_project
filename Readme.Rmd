@@ -1,0 +1,17 @@
+---
+title: "Readme"
+author: "CL"
+date: "7/15/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## First Github Repo !! 
+
+This is a readme file of this repo.
+:d
+
+
